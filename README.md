@@ -11,11 +11,11 @@ The Poster for the novel method summarizing the content can be found here:
 
 ## Table of Content
 
--Item 1 ##Prerequisites
--Item 2 Installation
--Item 3 Getting Started
--Item 4 Usage
--Item 5 Citation
+- Prerequisites
+- Installation
+- Getting Started
+- Usage
+- Citation
 
 
 ## Under construction
